@@ -1,0 +1,59 @@
+body{
+    background-color: lime;
+
+}
+#score{
+    font-size: 30px;
+    float:left;
+    margin-left: 20px;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 20px;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+#draw{
+    color: red;
+    font-size: 25px;
+    font-family: 'Overpass', sans-serif;
+}
+button{
+    float: right;
+    margin-top: 7.5px;
+    font-family: 'Edu SA Beginner', cursive;
+    background-color: green;
+    color:chartreuse;
+}
+h1{
+    background-color:floralwhite;
+    color:forestgreen;
+    font-weight: bold;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 45px;
+}
+
+#label{
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#confidence{
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.modal-header{
+    background-color: lightgreen;
+    color:green;
+    font-family: 'Overpass', sans-serif;
+    font-size: 20px;
+}
+
+canvas{
+    border-radius: 30px;
+    background-color: lightgreen;
+}
